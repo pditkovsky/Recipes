@@ -2,3 +2,5 @@ Hello, world!
 second row
 ttrihe lineпш
 4 row 04-06-2024
+
+5 пустая, 6 не пустая
